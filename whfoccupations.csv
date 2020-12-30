@@ -1,0 +1,45 @@
+occupation_code,occupation_name,display_level,selectable,sort_sequence
+419041,Telemarketers,3,T,617
+431011,First-Line Supervisors of Office and Administrative Support Workers,3,T,622
+432011,"Switchboard Operators, Including Answering Service",3,T,624
+432021,Telephone Operators,3,T,625
+432099,"Communications Equipment Operators, All Other",3,T,626
+433011,Bill and Account Collectors,3,T,628
+433021,Billing and Posting Clerks,3,T,629
+433031,"Bookkeeping, Accounting, and Auditing Clerks",3,T,630
+433041,Gambling Cage Workers,3,T,631
+433051,Payroll and Timekeeping Clerks,3,T,632
+433061,Procurement Clerks,3,T,633
+433071,Tellers,3,T,634
+433099,"Financial Clerks, All Other",3,T,635
+434011,Brokerage Clerks,3,T,637
+434021,Correspondence Clerks,3,T,638
+434031,"Court, Municipal, and License Clerks",3,T,639
+434041,"Credit Authorizers, Checkers, and Clerks",3,T,640
+434051,Customer Service Representatives,3,T,641
+434061,"Eligibility Interviewers, Government Programs",3,T,642
+434071,File Clerks,3,T,643
+434081,"Hotel, Motel, and Resort Desk Clerks",3,T,644
+434111,"Interviewers, Except Eligibility and Loan",3,T,645
+434121,"Library Assistants, Clerical",3,T,646
+434131,Loan Interviewers and Clerks,3,T,647
+434141,New Accounts Clerks,3,T,648
+434151,Order Clerks,3,T,649
+434161,"Human Resources Assistants, Except Payroll and Timekeeping",3,T,650
+434171,Receptionists and Information Clerks,3,T,651
+434181,Reservation and Transportation Ticket Agents and Travel Clerks,3,T,652
+434199,"Information and Record Clerks, All Other",3,T,653
+436011,Executive Secretaries and Executive Administrative Assistants,3,T,669
+436012,Legal Secretaries and Administrative Assistants,3,T,670
+436013,Medical Secretaries and Administrative Assistants,3,T,671
+436014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",3,T,672
+439021,Data Entry Keyers,3,T,675
+439022,Word Processors and Typists,3,T,676
+439031,Desktop Publishers,3,T,677
+439041,Insurance Claims and Policy Processing Clerks,3,T,678
+439051,"Mail Clerks and Mail Machine Operators, Except Postal Service",3,T,679
+439061,"Office Clerks, General",3,T,680
+439071,"Office Machine Operators, Except Computer",3,T,681
+439081,Proofreaders and Copy Markers,3,T,682
+439111,Statistical Assistants,3,T,683
+439199,"Office and Administrative Support Workers, All Other",3,T,684

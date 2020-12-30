@@ -1,0 +1,430 @@
+occupation_code	occupation_name	display_level	selectable	sort_sequence
+110000	Management Occupations	0	T	1
+111000	Top Executives	1	T	2
+111011	Chief Executives	3	T	3
+111021	General and Operations Managers	3	T	4
+111031	Legislators	3	T	5
+112000	Advertising, Marketing, Promotions, Public Relations, and Sales Managers	1	T	6
+112011	Advertising and Promotions Managers	3	T	7
+112020	Marketing and Sales Managers	2	T	8
+112021	Marketing Managers	3	T	9
+112022	Sales Managers	3	T	10
+112030	Public Relations and Fundraising Managers	2	T	11
+113000	Operations Specialties Managers	1	T	12
+113010	Administrative Services and Facilities Managers	2	T	13
+113021	Computer and Information Systems Managers	3	T	14
+113031	Financial Managers	3	T	15
+113051	Industrial Production Managers	3	T	16
+113061	Purchasing Managers	3	T	17
+113071	Transportation, Storage, and Distribution Managers	3	T	18
+113111	Compensation and Benefits Managers	3	T	19
+113121	Human Resources Managers	3	T	20
+113131	Training and Development Managers	3	T	21
+119000	Other Management Occupations	1	T	22
+119013	Farmers, Ranchers, and Other Agricultural Managers	3	T	23
+119021	Construction Managers	3	T	24
+119030	Education and Childcare Administrators	2	T	25
+119031	Education and Childcare Administrators, Preschool and Daycare	3	T	26
+119032	Education Administrators, Kindergarten through Secondary	3	T	27
+119033	Education Administrators, Postsecondary	3	T	28
+119039	Education Administrators, All Other	3	T	29
+119041	Architectural and Engineering Managers	3	T	30
+119051	Food Service Managers	3	T	31
+119071	Gambling Managers	3	T	32
+119081	Lodging Managers	3	T	33
+119111	Medical and Health Services Managers	3	T	34
+119121	Natural Sciences Managers	3	T	35
+119131	Postmasters and Mail Superintendents	3	T	36
+119141	Property, Real Estate, and Community Association Managers	3	T	37
+119151	Social and Community Service Managers	3	T	38
+119161	Emergency Management Directors	3	T	39
+119171	Funeral Home Managers	3	T	40
+119198	Personal Service Managers, Entertainment Managers, Except Gambling; and Managers, All Other	3	T	41
+130000	Business and Financial Operations Occupations	0	T	42
+131000	Business Operations Specialists	1	T	43
+131011	Agents and Business Managers of Artists, Performers, and Athletes	3	T	44
+131020	Buyers and Purchasing Agents	2	T	45
+131030	Claims Adjusters, Appraisers, Examiners, and Investigators	2	T	46
+131031	Claims Adjusters, Examiners, and Investigators	3	T	47
+131032	Insurance Appraisers, Auto Damage	3	T	48
+131041	Compliance Officers	3	T	49
+131051	Cost Estimators	3	T	50
+131070	Human Resources Workers	2	T	51
+131071	Human Resources Specialists	3	T	52
+131074	Farm Labor Contractors	3	T	53
+131075	Labor Relations Specialists	3	T	54
+131081	Logisticians	3	T	55
+131111	Management Analysts	3	T	56
+131121	Meeting, Convention, and Event Planners	3	T	57
+131131	Fundraisers	3	T	58
+131141	Compensation, Benefits, and Job Analysis Specialists	3	T	59
+131151	Training and Development Specialists	3	T	60
+131161	Market Research Analysts and Marketing Specialists	3	T	61
+131198	Project Management Specialists and Business Operations Specialists, All Other	3	T	62
+132000	Financial Specialists	1	T	63
+132011	Accountants and Auditors	3	T	64
+132020	Property Appraisers and Assessors	2	T	65
+132031	Budget Analysts	3	T	66
+132041	Credit Analysts	3	T	67
+132052	Personal Financial Advisors	3	T	68
+132053	Insurance Underwriters	3	T	69
+132061	Financial Examiners	3	T	70
+132070	Credit Counselors and Loan Officers	2	T	71
+132071	Credit Counselors	3	T	72
+132072	Loan Officers	3	T	73
+132080	Tax Examiners, Collectors and Preparers, and Revenue Agents	2	T	74
+132081	Tax Examiners and Collectors, and Revenue Agents	3	T	75
+132082	Tax Preparers	3	T	76
+132098	Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other	3	T	77
+150000	Computer and Mathematical Occupations	0	T	78
+151200	Computer Occupations	1	T	79
+151210	Computer and Information Analysts	2	T	80
+151211	Computer Systems Analysts	3	T	81
+151212	Information Security Analysts	3	T	82
+151221	Computer and Information Research Scientists	3	T	83
+151230	Computer Support Specialists	2	T	84
+151231	Computer Network Support Specialists	3	T	85
+151232	Computer User Support Specialists	3	T	86
+151240	Database and Network Administrators and Architects	2	T	87
+151241	Computer Network Architects	3	T	88
+151244	Network and Computer Systems Administrators	3	T	89
+151245	Database Administrators and Architects	3	T	90
+151250	Software and Web Developers, Programmers, and Testers	2	T	91
+151251	Computer Programmers	3	T	92
+151256	Software Developers and Software Quality Assurance Analysts and Testers	3	T	93
+151257	Web Developers and Digital Interface Designers	3	T	94
+151299	Computer Occupations, All Other	3	T	95
+152000	Mathematical Science Occupations	1	T	96
+152011	Actuaries	3	T	97
+152021	Mathematicians	3	T	98
+152031	Operations Research Analysts	3	T	99
+152041	Statisticians	3	T	100
+152098	Data Scientists and Mathematical Science Occupations, All Other	3	T	101
+170000	Architecture and Engineering Occupations	0	T	102
+171000	Architects, Surveyors, and Cartographers	1	T	103
+171010	Architects, Except Naval	2	T	104
+171011	Architects, Except Landscape and Naval	3	T	105
+171012	Landscape Architects	3	T	106
+171020	Surveyors, Cartographers, and Photogrammetrists	2	T	107
+171021	Cartographers and Photogrammetrists	3	T	108
+171022	Surveyors	3	T	109
+172000	Engineers	1	T	110
+172011	Aerospace Engineers	3	T	111
+172021	Agricultural Engineers	3	T	112
+172031	Bioengineers and Biomedical Engineers	3	T	113
+172041	Chemical Engineers	3	T	114
+172051	Civil Engineers	3	T	115
+172061	Computer Hardware Engineers	3	T	116
+172070	Electrical and Electronics Engineers	2	T	117
+172071	Electrical Engineers	3	T	118
+172072	Electronics Engineers, Except Computer	3	T	119
+172081	Environmental Engineers	3	T	120
+172110	Industrial Engineers, Including Health and Safety	2	T	121
+172111	Health and Safety Engineers, Except Mining Safety Engineers and Inspectors	3	T	122
+172112	Industrial Engineers	3	T	123
+172121	Marine Engineers and Naval Architects	3	T	124
+172131	Materials Engineers	3	T	125
+172141	Mechanical Engineers	3	T	126
+172151	Mining and Geological Engineers, Including Mining Safety Engineers	3	T	127
+172161	Nuclear Engineers	3	T	128
+172171	Petroleum Engineers	3	T	129
+172199	Engineers, All Other	3	T	130
+173000	Drafters, Engineering Technicians, and Mapping Technicians	1	T	131
+173010	Drafters	2	T	132
+173011	Architectural and Civil Drafters	3	T	133
+173012	Electrical and Electronics Drafters	3	T	134
+173013	Mechanical Drafters	3	T	135
+173019	Drafters, All Other	3	T	136
+173020	Engineering Technologists and Technicians, Except Drafters	2	T	137
+173021	Aerospace Engineering and Operations Technologists and Technicians	3	T	138
+173022	Civil Engineering Technologists and Technicians	3	T	139
+173023	Electrical and Electronic Engineering Technologists and Technicians	3	T	140
+173024	Electro-Mechanical and Mechatronics Technologists and Technicians	3	T	141
+173025	Environmental Engineering Technologists and Technicians	3	T	142
+173026	Industrial Engineering Technologists and Technicians	3	T	143
+173027	Mechanical Engineering Technologists and Technicians	3	T	144
+173031	Surveying and Mapping Technicians	3	T	145
+173098	Calibration and Engineering Technologists and Technicians, Except Drafters, All Other	3	T	146
+190000	Life, Physical, and Social Science Occupations	0	T	147
+191000	Life Scientists	1	T	148
+191010	Agricultural and Food Scientists	2	T	149
+191011	Animal Scientists	3	T	150
+191012	Food Scientists and Technologists	3	T	151
+191013	Soil and Plant Scientists	3	T	152
+191020	Biological Scientists	2	T	153
+191021	Biochemists and Biophysicists	3	T	154
+191022	Microbiologists	3	T	155
+191023	Zoologists and Wildlife Biologists	3	T	156
+191029	Biological Scientists, All Other	3	T	157
+191030	Conservation Scientists and Foresters	2	T	158
+191031	Conservation Scientists	3	T	159
+191032	Foresters	3	T	160
+191040	Medical Scientists	2	T	161
+191041	Epidemiologists	3	T	162
+191042	Medical Scientists, Except Epidemiologists	3	T	163
+191099	Life Scientists, All Other	3	T	164
+192000	Physical Scientists	1	T	165
+192010	Astronomers and Physicists	2	T	166
+192011	Astronomers	3	T	167
+192012	Physicists	3	T	168
+192021	Atmospheric and Space Scientists	3	T	169
+192030	Chemists and Materials Scientists	2	T	170
+192031	Chemists	3	T	171
+192032	Materials Scientists	3	T	172
+192040	Environmental Scientists and Geoscientists	2	T	173
+192041	Environmental Scientists and Specialists, Including Health	3	T	174
+192042	Geoscientists, Except Hydrologists and Geographers	3	T	175
+192043	Hydrologists	3	T	176
+192099	Physical Scientists, All Other	3	T	177
+193000	Social Scientists and Related Workers	1	T	178
+193011	Economists	3	T	179
+193022	Survey Researchers	3	T	180
+193030	Psychologists	2	T	181
+193031	Clinical, Counseling, and School Psychologists	3	T	182
+193032	Industrial-Organizational Psychologists	3	T	183
+193039	Psychologists, All Other	3	T	184
+193041	Sociologists	3	T	185
+193051	Urban and Regional Planners	3	T	186
+193090	Miscellaneous Social Scientists and Related Workers	2	T	187
+193091	Anthropologists and Archeologists	3	T	188
+193092	Geographers	3	T	189
+193093	Historians	3	T	190
+193094	Political Scientists	3	T	191
+193099	Social Scientists and Related Workers, All Other	3	T	192
+194000	Life, Physical, and Social Science Technicians	1	T	193
+194010	Agricultural and Food Science Technicians	2	T	194
+194021	Biological Technicians	3	T	195
+194031	Chemical Technicians	3	T	196
+194040	Environmental Science and Geoscience Technicians	2	T	197
+194042	Environmental Science and Protection Technicians, Including Health	3	T	198
+194045	Geological and Hydrologic Technicians	3	T	199
+194051	Nuclear Technicians	3	T	200
+194061	Social Science Research Assistants	3	T	201
+194071	Forest and Conservation Technicians	3	T	202
+194090	Miscellaneous Life, Physical, and Social Science Technicians	2	T	203
+194092	Forensic Science Technicians	3	T	204
+194099	Life, Physical, and Social Science Technicians, All Other	3	T	205
+195010	Occupational Health and Safety Specialists and Technicians	2	T	207
+195011	Occupational Health and Safety Specialists	3	T	208
+195012	Occupational Health and Safety Technicians	3	T	209
+210000	Community and Social Service Occupations	0	T	210
+211000	Counselors, Social Workers, and Other Community and Social Service Specialists	1	T	211
+211010	Counselors	2	T	212
+211012	Educational, Guidance, and Career Counselors and Advisors	3	T	213
+211013	Marriage and Family Therapists	3	T	214
+211015	Rehabilitation Counselors	3	T	215
+211018	Substance abuse, behavioral disorder, and mental health counselors	3	T	216
+211019	Counselors, All Other	3	T	217
+211020	Social Workers	2	T	218
+211021	Child, Family, and School Social Workers	3	T	219
+211022	Healthcare Social Workers	3	T	220
+211023	Mental Health and Substance Abuse Social Workers	3	T	221
+211029	Social Workers, All Other	3	T	222
+211090	Miscellaneous Community and Social Service Specialists	2	T	223
+211091	Health Education Specialists	3	T	224
+211092	Probation Officers and Correctional Treatment Specialists	3	T	225
+211093	Social and Human Service Assistants	3	T	226
+211094	Community Health Workers	3	T	227
+211099	Community and Social Service Specialists, All Other	3	T	228
+212000	Religious Workers	1	T	229
+212011	Clergy	3	T	230
+212021	Directors, Religious Activities and Education	3	T	231
+212099	Religious Workers, All Other	3	T	232
+230000	Legal Occupations	0	T	233
+231000	Lawyers, Judges, and Related Workers	1	T	234
+231010	Lawyers and Judicial Law Clerks	2	T	235
+231011	Lawyers	3	T	236
+231012	Judicial Law Clerks	3	T	237
+231020	Judges, Magistrates, and Other Judicial Workers	2	T	238
+231021	Administrative Law Judges, Adjudicators, and Hearing Officers	3	T	239
+231022	Arbitrators, Mediators, and Conciliators	3	T	240
+231023	Judges, Magistrate Judges, and Magistrates	3	T	241
+232000	Legal Support Workers	1	T	242
+232011	Paralegals and Legal Assistants	3	T	243
+232090	Miscellaneous Legal Support Workers	2	T	244
+232093	Title Examiners, Abstractors, and Searchers	3	T	245
+232099	Legal Support Workers, All Other	3	T	246
+270000	Arts, Design, Entertainment, Sports, and Media Occupations	0	T	332
+271000	Art and Design Workers	1	T	333
+271010	Artists and Related Workers	2	T	334
+271011	Art Directors	3	T	335
+271012	Craft Artists	3	T	336
+271013	Fine Artists, Including Painters, Sculptors, and Illustrators	3	T	337
+271014	Special Effects Artists and Animators	3	T	338
+271019	Artists and Related Workers, All Other	3	T	339
+271020	Designers	2	T	340
+271021	Commercial and Industrial Designers	3	T	341
+271022	Fashion Designers	3	T	342
+271023	Floral Designers	3	T	343
+271024	Graphic Designers	3	T	344
+271025	Interior Designers	3	T	345
+271026	Merchandise Displayers and Window Trimmers	3	T	346
+271027	Set and Exhibit Designers	3	T	347
+271029	Designers, All Other	3	T	348
+273000	Media and Communication Workers	1	T	364
+273011	Broadcast Announcers and Radio Disc Jockeys	3	T	365
+273023	News Analysts, Reporters, and Journalists	3	T	366
+273031	Public Relations Specialists	3	T	367
+273040	Writers and Editors	2	T	368
+273041	Editors	3	T	369
+273042	Technical Writers	3	T	370
+273043	Writers and Authors	3	T	371
+273090	Miscellaneous Media and Communication Workers	2	T	372
+273091	Interpreters and Translators	3	T	373
+273092	Court Reporters and Simultaneous Captioners	3	T	374
+273099	Media and Communication Workers, All Other	3	T	375
+290000	Healthcare Practitioners and Technical Occupations	0	T	385
+291000	Healthcare Diagnosing or Treating Practitioners	1	T	386
+291011	Chiropractors	3	T	387
+291020	Dentists	2	T	388
+291021	Dentists, General	3	T	389
+291022	Oral and Maxillofacial Surgeons	3	T	390
+291023	Orthodontists	3	T	391
+291024	Prosthodontists	3	T	392
+291029	Dentists, All Other Specialists	3	T	393
+291031	Dietitians and Nutritionists	3	T	394
+291041	Optometrists	3	T	395
+291051	Pharmacists	3	T	396
+291071	Physician Assistants	3	T	397
+291081	Podiatrists	3	T	398
+291120	Therapists	2	T	399
+291122	Occupational Therapists	3	T	400
+291123	Physical Therapists	3	T	401
+291124	Radiation Therapists	3	T	402
+291125	Recreational Therapists	3	T	403
+291126	Respiratory Therapists	3	T	404
+291127	Speech-Language Pathologists	3	T	405
+291128	Exercise Physiologists	3	T	406
+291129	Therapists, All Other	3	T	407
+291131	Veterinarians	3	T	408
+291141	Registered Nurses	3	T	409
+291151	Nurse Anesthetists	3	T	410
+291161	Nurse Midwives	3	T	411
+291171	Nurse Practitioners	3	T	412
+291181	Audiologists	3	T	413
+291211	Anesthesiologists	3	T	414
+291215	Family Medicine Physicians	3	T	415
+291216	General Internal Medicine Physicians	3	T	416
+291218	Obstetricians and Gynecologists	3	T	417
+291221	Pediatricians, General	3	T	418
+291223	Psychiatrists	3	T	419
+291228	Physicians, All Other; and Ophthalmologists, Except Pediatric	3	T	420
+291248	Surgeons, Except Ophthalmologists	3	T	421
+291290	Miscellaneous Healthcare Diagnosing or Treating Practitioners	2	T	422
+291292	Dental Hygienists	3	T	423
+291298	Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other	3	T	424
+292000	Health Technologists and Technicians	1	T	425
+292010	Clinical Laboratory Technologists and Technicians	2	T	426
+292031	Cardiovascular Technologists and Technicians	3	T	427
+292032	Diagnostic Medical Sonographers	3	T	428
+292033	Nuclear Medicine Technologists	3	T	429
+292034	Radiologic Technologists and Technicians	3	T	430
+292035	Magnetic Resonance Imaging Technologists	3	T	431
+292040	Emergency Medical Technicians and Paramedics	2	T	432
+292050	Health Practitioner Support Technologists and Technicians	2	T	433
+292051	Dietetic Technicians	3	T	434
+292052	Pharmacy Technicians	3	T	435
+292053	Psychiatric Technicians	3	T	436
+292055	Surgical Technologists	3	T	437
+292056	Veterinary Technologists and Technicians	3	T	438
+292057	Ophthalmic Medical Technicians	3	T	439
+292061	Licensed Practical and Licensed Vocational Nurses	3	T	440
+292081	Opticians, Dispensing	3	T	441
+292091	Orthotists and Prosthetists	3	T	443
+292092	Hearing Aid Specialists	3	T	444
+292098	Medical Dosimetrists and Records Specialists, and Health Technologists and Technicians, All Other	3	T	445
+299000	Other Healthcare Practitioners and Technical Occupations	1	T	446
+299091	Athletic Trainers	3	T	447
+299092	Genetic Counselors	3	T	448
+299098	Healthcare Technologists and Practitioners, Medical Registrars, and Surgical Assistants, All Other	3	T	449
+310000	Healthcare Support Occupations	0	T	450
+311100	Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides	2	T	451
+311120	Home Health and Personal Care Aides	2	T	452
+311130	Nursing Assistants, Orderlies, and Psychiatric Aides	2	T	453
+311131	Nursing Assistants	3	T	454
+311132	Orderlies	3	T	455
+311133	Psychiatric Aides	3	T	456
+312000	Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides	1	T	457
+312010	Occupational Therapy Assistants and Aides	2	T	458
+312011	Occupational Therapy Assistants	3	T	459
+312012	Occupational Therapy Aides	3	T	460
+312020	Physical Therapist Assistants and Aides	2	T	461
+312021	Physical Therapist Assistants	3	T	462
+312022	Physical Therapist Aides	3	T	463
+319000	Other Healthcare Support Occupations	1	T	464
+319011	Massage Therapists	3	T	465
+319090	Miscellaneous Healthcare Support Occupations	2	T	466
+319091	Dental Assistants	3	T	467
+319092	Medical Assistants	3	T	468
+319093	Medical Equipment Preparers	3	T	469
+319094	Medical Transcriptionists	3	T	470
+319095	Pharmacy Aides	3	T	471
+319096	Veterinary Assistants and Laboratory Animal Caretakers	3	T	472
+319097	Phlebotomists	3	T	473
+319099	Healthcare Support Workers, All Other	3	T	474
+410000	Sales and Related Occupations	0	T	588
+413000	Sales Representatives, Services	1	T	600
+413011	Advertising Sales Agents	3	T	601
+413021	Insurance Sales Agents	3	T	602
+413031	Securities, Commodities, and Financial Services Sales Agents	3	T	603
+413041	Travel Agents	3	T	604
+413091	Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel	3	T	605
+414010	Sales Representatives, Wholesale and Manufacturing	2	T	606
+414011	Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products	3	T	607
+414012	Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products	3	T	608
+419000	Other Sales and Related Workers	1	T	609
+419020	Real Estate Brokers and Sales Agents	2	T	613
+419021	Real Estate Brokers	3	T	614
+419022	Real Estate Sales Agents	3	T	615
+419031	Sales Engineers	3	T	616
+419041	Telemarketers	3	T	617
+430000	Office and Administrative Support Occupations	0	T	621
+431011	First-Line Supervisors of Office and Administrative Support Workers	3	T	622
+432000	Communications Equipment Operators	1	T	623
+432011	Switchboard Operators, Including Answering Service	3	T	624
+432021	Telephone Operators	3	T	625
+432099	Communications Equipment Operators, All Other	3	T	626
+433000	Financial Clerks	1	T	627
+433011	Bill and Account Collectors	3	T	628
+433021	Billing and Posting Clerks	3	T	629
+433031	Bookkeeping, Accounting, and Auditing Clerks	3	T	630
+433041	Gambling Cage Workers	3	T	631
+433051	Payroll and Timekeeping Clerks	3	T	632
+433061	Procurement Clerks	3	T	633
+433071	Tellers	3	T	634
+433099	Financial Clerks, All Other	3	T	635
+434000	Information and Record Clerks	1	T	636
+434011	Brokerage Clerks	3	T	637
+434021	Correspondence Clerks	3	T	638
+434031	Court, Municipal, and License Clerks	3	T	639
+434041	Credit Authorizers, Checkers, and Clerks	3	T	640
+434051	Customer Service Representatives	3	T	641
+434061	Eligibility Interviewers, Government Programs	3	T	642
+434071	File Clerks	3	T	643
+434081	Hotel, Motel, and Resort Desk Clerks	3	T	644
+434111	Interviewers, Except Eligibility and Loan	3	T	645
+434121	Library Assistants, Clerical	3	T	646
+434131	Loan Interviewers and Clerks	3	T	647
+434141	New Accounts Clerks	3	T	648
+434151	Order Clerks	3	T	649
+434161	Human Resources Assistants, Except Payroll and Timekeeping	3	T	650
+434171	Receptionists and Information Clerks	3	T	651
+434181	Reservation and Transportation Ticket Agents and Travel Clerks	3	T	652
+434199	Information and Record Clerks, All Other	3	T	653
+436010	Secretaries and Administrative Assistants	2	T	668
+436011	Executive Secretaries and Executive Administrative Assistants	3	T	669
+436012	Legal Secretaries and Administrative Assistants	3	T	670
+436013	Medical Secretaries and Administrative Assistants	3	T	671
+436014	Secretaries and Administrative Assistants, Except Legal, Medical, and Executive	3	T	672
+439000	Other Office and Administrative Support Workers	1	T	673
+439020	Data Entry and Information Processing Workers	2	T	674
+439021	Data Entry Keyers	3	T	675
+439022	Word Processors and Typists	3	T	676
+439031	Desktop Publishers	3	T	677
+439041	Insurance Claims and Policy Processing Clerks	3	T	678
+439051	Mail Clerks and Mail Machine Operators, Except Postal Service	3	T	679
+439061	Office Clerks, General	3	T	680
+439071	Office Machine Operators, Except Computer	3	T	681
+439081	Proofreaders and Copy Markers	3	T	682
+439111	Statistical Assistants	3	T	683
+439199	Office and Administrative Support Workers, All Other	3	T	684
